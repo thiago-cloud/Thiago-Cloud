@@ -32,7 +32,9 @@ Com minha paixão pelo desenvolvimento web e a ampla gama de habilidades, posso 
 ##
 
 <div align="center">
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+  <a href="https://discord.gg/eHVsVc2c" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a> 
   <a href = "mailto:thiago.al154@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
