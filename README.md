@@ -58,6 +58,6 @@ Com minha paixão pelo desenvolvimento web e a ampla gama de habilidades, posso 
 
 
 
-![snake gif](https://github.com/Thiago-Cloud/Thiago-Cloud/blob/output/github-contribution-grid-snake.gif)
+
 
 <!--[![readme](https://github-readme-stats.vercel.app/api/pin/?username=thiago-cloud&repo=thiago-cloud&theme=react)](https://github.com/thiago-cloud/thiago-cloud)-->
