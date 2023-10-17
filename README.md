@@ -55,3 +55,7 @@ Com minha paixão pelo desenvolvimento web e a ampla gama de habilidades, posso 
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-cloud&show_icons=true&theme=transparent&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=thiago-cloud&show_icons=true&show_icons=true&theme=transparent&count_private=true" />
 </div>
+
+
+
+![snake gif](https://github.com/thiago-cloud/thiago-cloud/blob/output/github-contribution-grid-snake.gif)
