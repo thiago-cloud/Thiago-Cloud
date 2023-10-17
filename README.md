@@ -44,8 +44,9 @@ Com minha paixão pelo desenvolvimento web e a ampla gama de habilidades, posso 
   <a href="https://web.whatsapp.com/send?phone=5581987531748">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"></a>
+  <a href="https://t.me/ThiagoTi">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
+  </a>
 </div>
 
 ##
