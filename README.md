@@ -56,7 +56,6 @@ Com minha paixão pelo desenvolvimento web e a ampla gama de habilidades, posso 
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=thiago-cloud&show_icons=true&show_icons=true&theme=transparent&count_private=true" />
 </div>
 
-<div>test</div>
 
 
 
