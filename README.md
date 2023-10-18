@@ -27,6 +27,7 @@ Com minha paixão pelo desenvolvimento web e a ampla gama de habilidades, posso 
   <img align="center" title="ShellScript" alt="Thiago-ShellScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" title=".NetCore" alt="Thiago-DotNet" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" title="Mysql" alt="Thiago-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" title="Docker" alt="Thiago-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 </div>
 
 ##
@@ -48,6 +49,7 @@ Com minha paixão pelo desenvolvimento web e a ampla gama de habilidades, posso 
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
   </a>
 </div>
+
 
 ##
 
