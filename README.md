@@ -8,9 +8,9 @@
 :trophy: Em busca de evoluir cada vez mais
 
 
-Me chamo Thiago sou um desenvolvedor web Full Stack com um conjunto abrangente de habilidades técnicas. Minha proficiência em HTML, CSS3 e Bootstrap o permite criar interfaces elegantes e responsivas, enquanto minhas habilidades em JavaScript e TypeScript possibilitam a construção de aplicativos web interativos e dinâmicos.
+Me chamo Thiago sou um desenvolvedor web Fullstack com focu em front-end. Minha proficiência em HTML, CSS3 e Bootstrap o permite criar interfaces elegantes e responsivas, enquanto minhas habilidades em JavaScript e TypeScript possibilitam a construção de aplicativos web interativos e dinâmicos.
 
-Além disso, utilizo Angular,para criar estruturas de aplicativos web robustos e eficientes. A minha familiaridade com C# e SQL me capacita a desenvolver soluções completas e seguras, incluindo a manipulação de dados em bancos de dados relacionais. O meu gerenciamento de código com o Git, me ajuda a colaborar de forma eficaz e manter um histórico de versionamento sólido.
+Além disso, utilizo Angular,para criar estruturas de aplicativos web robustos e eficientes. A minha familiaridade com Java e SQL me capacita a desenvolver soluções completas e seguras, incluindo a manipulação de dados em bancos de dados relacionais. O meu gerenciamento de código com o Git, me ajuda a colaborar de forma eficaz e manter um histórico de versionamento sólido.
 
 Com minha paixão pelo desenvolvimento web e a ampla gama de habilidades, posso dizer que esse caminho me ajuda a criar soluções de maneira eficaz.
 
