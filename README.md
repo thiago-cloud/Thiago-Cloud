@@ -29,8 +29,8 @@ Com minha dedicação pelo desenvolvimento web e a ampla gama de habilidades, po
   <img align="center" title="Java-Linguagem" alt="Thiago-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" title="PHP-Linguagem" alt="Thiago-Php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" title="ShellScript-Linguagem" alt="Thiago-ShellScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img align="center" title=".NodeJs-Ambiente" alt="Thiago-NodeJs" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" title=".NodeJs-Ambiente" alt="Thiago-NodeJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+  <img align="center" title="NodeJs-Ambiente" alt="Thiago-NodeJs" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" title="Spring-Framework" alt="Thiago-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
   <img align="center" title="Mysql-banco-de-dados" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" title="Docker-Container" alt="Thiago-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" title="Kubernetes-Orquestrador-container" alt="Thiago-Kubernetes" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" />
