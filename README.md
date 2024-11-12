@@ -2,7 +2,7 @@
 
 # :wave:Olá! É bom ter você por aqui.
 
-👨‍🎓 Bacharel em Ciência da Computação(2025) - Fam<br>
+👨‍🎓 Bacharel em Ciência da Computação(2025) - Faculdade das Américas(FAM)<br>
 💻 Web Developer<br>
 :telescope: Sempre querendo aprender mais<br>
 :trophy: Em busca de evoluir cada vez mais
