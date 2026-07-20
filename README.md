@@ -2,17 +2,33 @@
 
 # :wave:Olá! É bom ter você por aqui.
 
-👨‍🎓 Bacharel em Ciência da Computação(2025) - Faculdade das Américas(FAM)<br>
+👨‍🎓 Bacharel em Ciência da Computação - Faculdade das Américas(FAM)<br>
 💻 Engenheiro de Software<br>
 :telescope: Sempre querendo aprender mais<br>
 :trophy: Em busca de evoluir cada vez mais
 
 
-Me chamo Thiago, sou um desenvolvedor web Fullstack. Meu conhecimento em HTML, CSS3 e Bootstrap me permite criar interfaces interessante e responsivas, enquanto minhas habilidades em JavaScript e TypeScript possibilitam a construção de aplicativos web interativos e dinâmicos.
+Analista de TI | Automação | Analise de Dados | Infraestrutura | Redes | Virtualização | Containers | Sistemas operacionais
 
-Além disso, tenho preferência pelo framework angular, para criar estruturas de aplicativos web de fomas mais robustos e eficientes. A minha familiaridade com Java e SQL me capacita a desenvolver soluções completas e seguras, incluindo a manipulação de dados em bancos de dados relacionais. O meu gerenciamento de código com o Git, me ajuda a colaborar de forma eficaz e manter um histórico de versionamento sólido.
+Sou estudante de Ciêmcia da computação com interesse em infraestrutura, suporte técnico, administração de redes, sistemas e automação de processos. Busco desenvolver soluções eficientes para ambientes corporativos, sempre focando em desempenho, segurança e qualidade no atendimento aos usuários.
 
-Com minha dedicação pelo desenvolvimento web e a ampla gama de habilidades, posso dizer que esse caminho me ajuda a criar soluções de maneira mais completa.
+🚀 Principais conhecimentos
+💻 Suporte técnico (Help Desk e Service Desk)
+🖥️ Linux e Windows Server
+🌐 Redes de computadores (TCP/IP, DNS, DHCP, VLAN, Wi-Fi)
+🔐 Segurança da Informação
+🛠️ Active Directory
+☁️ Microsoft 365
+📊 Excel Avançado
+⚡ PowerShell
+🗄️ Banco de Dados SQL
+🐧 Linux
+🐙 Git e GitHub
+🧩 Virtualização Hyper-V Docker
+    Monitoramento de infraestrutura
+    Automação com PowerShell e Python
+
+Atuar como Analista de TI, contribuindo para a administração de ambientes corporativos, suporte aos usuários, gerenciamento de infraestrutura e implementação de soluções tecnológicas.
 
 ## 💻 Tecnologias
 
