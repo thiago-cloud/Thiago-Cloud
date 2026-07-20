@@ -3,34 +3,37 @@
 # :wave:Olá! É bom ter você por aqui.
 
 👨‍🎓 Bacharel em Ciência da Computação - Faculdade das Américas(FAM)<br>
-💻 Engenheiro de Software<br>
+💻 Analista de TI<br>
 :telescope: Sempre querendo aprender mais<br>
 :trophy: Em busca de evoluir cada vez mais
 
 
 Analista de TI | Automação | Analise de Dados | Infraestrutura | Redes | Virtualização | Containers | Sistemas operacionais
 
-Sou estudante de Ciêmcia da computação com interesse em infraestrutura, suporte técnico, administração de redes, sistemas e automação de processos. Busco desenvolver soluções eficientes para ambientes corporativos, sempre focando em desempenho, segurança e qualidade no atendimento aos usuários.
+Sou estudante de Ciência da computação atuei como estagiário em desenvolvimento Web Full Stack, suporte de TI e analise de dados porém meu foco é na área de infraestrutura e automação de processos. Busco desenvolver soluções eficientes para ambientes corporativos, sempre focando em desempenho, segurança e qualidade no atendimento aos usuários.
 
-🚀 Principais conhecimentos
-💻 Suporte técnico (Help Desk e Service Desk)
-🖥️ Linux e Windows Server
-🌐 Redes de computadores (TCP/IP, DNS, DHCP, VLAN, Wi-Fi)
-🔐 Segurança da Informação
-🛠️ Active Directory
-☁️ Microsoft 365
-📊 Excel Avançado
-⚡ PowerShell
-🗄️ Banco de Dados SQL
-🐧 Linux
-🐙 Git e GitHub
-🧩 Virtualização Hyper-V Docker
-    Monitoramento de infraestrutura
-    Automação com PowerShell e Python
+🚀 Principais conhecimentos<br>
+💻 Suporte técnico (Help Desk e Service Desk)<br>
+🖥️ Linux e Windows Server<br>
+🌐 Redes de computadores (TCP/IP, DNS, DHCP, VLAN, Wi-Fi)<br>
+🔌 Cabeamento Estruturado<br>
+🖧 Switch e Roteadores<br>
+🔐 Conceitos de segurança da informação<br>
+🛠️ Active Directory<br>
+☁️ Microsoft 365<br>
+📊 Excel Avançado<br>
+⚡ PowerShell<br>
+🐍 Python<br>
+🗄️ Banco de Dados SQL<br>
+🐙 Git<br>
+🧩 Virtualização Hyper-V<br>
+🐳 Docker<br>
+👀 Monitoramento de infraestrutura(Zabbix)<br>
+   
 
 Atuar como Analista de TI, contribuindo para a administração de ambientes corporativos, suporte aos usuários, gerenciamento de infraestrutura e implementação de soluções tecnológicas.
 
-## 💻 Tecnologias
+## 💻 Tecnologias que já utilizei:
 
 ### 🔙 Backend
 <div style="display: inline_block" align="left">
