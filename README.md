@@ -39,11 +39,12 @@ Com minha dedicação pelo desenvolvimento web e a ampla gama de habilidades, po
 
 ### ☁️ Infraestrutura
 <div style="display: inline_block" align="left">
-  <img align="center" title="Docker-Container" alt="Thiago-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" title="Google Cloud" alt="Thiago-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-  <img align="center" title="Kubernetes-Orquestrador-container" alt="Thiago-Kubernetes" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" />
-  <img align="center" title="RedHat" alt="RedHat" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original-wordmark.svg" />
-  <img align="center" title="ShellScript-Linguagem" alt="Thiago-ShellScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <img align="center" title="Docker-Container" alt="Thiago-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+    <img align="center" title="Google Cloud" alt="Thiago-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+    <img align="center" title="Kubernetes-Orquestrador-container" alt="Thiago-Kubernetes" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+    <img align="center" title="RedHat" alt="RedHat" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original-wordmark.svg" />
+    <img align="center" title="ShellScript-Linguagem" alt="Thiago-ShellScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+      <img align="center" title="ShellScript-Linguagem" alt="Thiago-ShellScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </div>
 
 
