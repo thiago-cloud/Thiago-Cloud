@@ -33,8 +33,9 @@ Sou estudante de Ciência da computação atuei como estagiário em desenvolvime
 
 Atuar como Analista de TI, contribuindo para a administração de ambientes corporativos, suporte aos usuários, gerenciamento de infraestrutura e implementação de soluções tecnológicas.
 
-## 💻 Tecnologias que já utilizei:
-
+## 💻 Tecnologias:
+   Tecnologias que utilizei em projetos de desenvolvimento web, infraestrutura de TI e que adquiri ao longo da minha trajetória de estudos e aprendizado contínuo.
+   
 ### 🔙 Backend
 <div style="display: inline_block" align="left">
   <img align="center" title="Java-Linguagem" alt="Thiago-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
