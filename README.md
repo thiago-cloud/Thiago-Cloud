@@ -8,14 +8,15 @@
 :trophy: Em busca de evoluir cada vez mais
 
 
-Analista de TI | Automação | Analise de Dados | Infraestrutura | Redes | Virtualização | Containers | Sistemas operacionais
+Analista de TI | Automação | Analise de Dados | Banco de Dados| Infraestrutura | Redes | Virtualização | Containers | Sistemas operacionais
 
 Sou estudante de Ciência da computação atuei como estagiário em desenvolvimento Web Full Stack, suporte de TI e analise de dados porém meu foco é na área de infraestrutura e automação de processos. Busco desenvolver soluções eficientes para ambientes corporativos, sempre focando em desempenho, segurança e qualidade no atendimento aos usuários.
 
 🚀 Principais conhecimentos<br>
 💻 Suporte técnico (Help Desk e Service Desk)<br>
 🖥️ Linux e Windows Server<br>
-🌐 Redes de computadores (TCP/IP, DNS, DHCP, VLAN, Wi-Fi)<br>
+🌐 Redes de computadores (TCP/IP, DNS, DHCP, VLAN, Wi-Fi, Modelo OSI, Topologias)<br>
+🗄️ Servidores<br>
 🔌 Cabeamento Estruturado<br>
 🖧 Switch e Roteadores<br>
 🔐 Conceitos de segurança da informação<br>
