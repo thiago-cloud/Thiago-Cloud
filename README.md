@@ -8,7 +8,7 @@
 :trophy: Em busca de evoluir cada vez mais
 
 
-Analista de TI | Automação | Analise de Dados | Banco de Dados| Infraestrutura | Redes | Virtualização | Containers | Sistemas operacionais
+Analista de TI | Automação | Analise de Dados | Banco de Dados | Infraestrutura | Redes | Virtualização | Containers | Sistemas operacionais | IA
 
 Sou estudante de Ciência da computação atuei como estagiário em desenvolvimento Web Full Stack, suporte de TI e analise de dados porém meu foco é na área de infraestrutura e automação de processos. Busco desenvolver soluções eficientes para ambientes corporativos, sempre focando em desempenho, segurança e qualidade no atendimento aos usuários.
 
